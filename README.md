@@ -11,3 +11,6 @@
 - Warning: you might get RICKROLLED if you press the wrong thing
 - I warned you
 - Seriously, I warned you
+
+
+- Don't ask me questions, there are no bugs and even a potato can run it. If you don't use a computer from the 1500s you should have no problems

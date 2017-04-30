@@ -4,6 +4,7 @@
 2. unzip
 3. run lul.html (excuse my poor choice of file names)
 
+- web version because why not
 - supported across all platforms (with a javascript-enabled web browser)
 - written in HTML with css and like 6 lines or so of javascipt hurr durr
 - I stole the theme from my previous project so it basically looks the same lul
